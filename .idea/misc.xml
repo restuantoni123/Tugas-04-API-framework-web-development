@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FrameworkWebDevelopment/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FrameworkWebDevelopment/app/src/main/res/drawable-v24/ic_refres_foreground.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FrameworkWebDevelopment/app/src/main/res/layout/activity_main.xml" value="0.21379310344827587" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FrameworkWebDevelopment/app/src/main/res/layout/costom.xml" value="0.26851851851851855" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FrameworkWebDevelopment/app/src/main/res/layout/detail_fremwork.xml" value="0.3175925925925926" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FrameworkWebDevelopment/app/src/main/res/layout/list_fremwork.xml" value="0.3175925925925926" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
